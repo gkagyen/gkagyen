@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I'm George Kyei Agyen, a PhD researcher in Coastal Engineering at the University of Cape Coast, Ghana. My research focuses on predicting coastal wave dynamics using machine learning for adaptive coastal management.
 
-<!--
-**gkagyen/gkagyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm also an R enthusiast, passionate about data science, statistical modeling, and environmental engineering. I actively contribute to the Ghana R Users Community, where I organize workshops and training sessions on R and data science applications.
 
-Here are some ideas to get you started:
+🚀 Interests:
+- 🔹 Machine Learning & AI for Coastal Engineering
+- 🔹 Data Science & Statistical Analysis (R & Python)
+- 🔹 Environmental Sustainability & Coastal Management
+- 🔹 Teaching & Community Engagement in Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's connect:
+🌍 [LinkedIn](www.linkedin.com/in/gk-agyen59)| ✖ [Twitter](https://x.com/gk_agyen) | 🌱 [GitHub](https://github.com/gkagyen)
+
